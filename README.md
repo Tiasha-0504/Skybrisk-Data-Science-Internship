@@ -28,13 +28,13 @@ Month 1 focuses on Python programming fundamentals, data structures, data manipu
 ## Repository Structure
 
 - `Month-1/` — Weekly notebooks and Month 1 overview
-- `Month-2/` — To be added as the internship progresses
+- `Month-2/` — Customer Churn, Netflix Titles Analysis, and Project Comparison
 - `Month-3/` — To be added as the internship progresses
 
 ## Progress
 
 - [x] Month 1 — Completed
-- [ ] Month 2 — Pending
+- [x] Month 2 — Pending
 - [ ] Month 3 — Pending
 
-More work will be added to this repository as the internship progresses.
+Month 1 and Month 2 have been completed. More work will be added as the internship progresses.
