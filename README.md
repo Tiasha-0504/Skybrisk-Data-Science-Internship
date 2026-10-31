@@ -34,7 +34,7 @@ Month 1 focuses on Python programming fundamentals, data structures, data manipu
 ## Progress
 
 - [x] Month 1 — Completed
-- [x] Month 2 — Pending
+- [x] Month 2 — Completed
 - [ ] Month 3 — Pending
 
 Month 1 and Month 2 have been completed. More work will be added as the internship progresses.
